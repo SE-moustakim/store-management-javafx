@@ -5,4 +5,4 @@ le projet se compose des modules suivants :
 -gestion des produits 
 -gestion des ventes 
 -gesion des paiements 
-![src/images/1.png]
+![res/images/1.png]
